@@ -1,0 +1,59 @@
+.Simulateur {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.va-container {
+  margin: 20px 0;
+}
+
+.va-container label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.va-container input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #542e5e;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.results {
+  margin-top: 30px;
+}
+
+.results h2 {
+  color: #542e5e;
+}
+
+.results p {
+  font-size: 18px;
+}
+
+.name-container {
+  margin: 20px 0;
+}
+
+.name-container label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.name-container input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #542e5e;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.note {
+  font-size: 14px;
+  color: #999;
+  margin-top: 5px;
+}

@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+  background-color: #fcfaf8;
+  color: #0e373b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-header {
+  padding: 20px;
+}
+
+.App-title {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #0e373b;
+}
+
+.App-subtitle {
+  font-size: 1.2em;
+  margin: 10px 0 30px;
+  font-weight: normal;
+}
+
+.App-button {
+  background-color: #542e5e;
+  color: #fcfaf8;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1em;
+  font-weight: bold;
+  border-radius: 25px; /* Arrondi augmenté */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Légère ombre pour un effet de relief */
+}
+
+.App-button:hover {
+  background-color: #f1f0ec;
+  color: #0e373b;
+}
+.App-image {
+  width: 400px; /* Ajuste la largeur de l'image */
+  height: auto; /* Conserve les proportions */
+  margin-bottom: 20px; /* Ajoute un espace entre l'image et le texte */
+  border-radius: 10px; /* Coins arrondis (optionnel) */
+}
