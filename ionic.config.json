@@ -1,5 +1,8 @@
 {
   "name": "liinkerspro",
-  "integrations": {},
-  "type": "react"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fdafa574"
 }

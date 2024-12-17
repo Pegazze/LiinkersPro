@@ -1,0 +1,6 @@
+{
+  "appId": "com.liinkerspro.app",
+  "appName": "liinkerspro",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
